@@ -432,7 +432,7 @@ footer{
 .aboveImg4 {
     width: 3rem;
     height: 3rem;
-    background: url("/Assets/images/download-icon.gif");
+    background: url("Assets/images/download-icon.gif");
     display: block;
     background-size: 100%;
 }
